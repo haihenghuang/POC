@@ -1,3 +1,11 @@
 
 
-ls -la
+ls -la;
+
+ps -ef;
+
+ls -ltar;
+
+ls;
+
+
