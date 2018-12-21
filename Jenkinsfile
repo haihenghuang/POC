@@ -5,9 +5,6 @@ pipeline {
       steps {
         sleep 20
       }
-    }
-	stage('test Script'){
-		sh ".test.sh"
-	}
+    }	
   }
 }
